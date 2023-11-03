@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_kirin.mk
+    $(LOCAL_DIR)/lmodroid_kirin.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_kirin-user \
-    lineage_kirin-userdebug \
-    lineage_kirin-eng
+    lmodroid_kirin-user \
+    lmodroid_kirin-userdebug \
+    lmodroid_kirin-eng
