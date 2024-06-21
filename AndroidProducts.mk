@@ -16,8 +16,3 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lmodroid_kirin.mk
-
-COMMON_LUNCH_CHOICES := \
-    lmodroid_kirin-user \
-    lmodroid_kirin-userdebug \
-    lmodroid_kirin-eng
